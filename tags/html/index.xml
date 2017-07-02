@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Coding Through Life</title>
+    <link>https://tomcorkhill.github.io/tags/html/</link>
+    <description>Recent content in Html on Coding Through Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Tom Corkhill; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tomcorkhill.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Try Static Site Generation with Hugo</title>
+      <link>https://tomcorkhill.github.io/post/try-static-site-generation/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomcorkhill.github.io/post/try-static-site-generation/</guid>
+      <description>If you&amp;rsquo;re into coding or general web development, you will have probably thought about creating your own site from scratch at one point or another. If you&amp;rsquo;ve trying to decide which CMS system to use, hosting provider to trust and plugins to use, take a step back for a minute. What if I told you that you could have a site with no database requirements, high performance on even free hosting and that was easy to maintain?</description>
+    </item>
+    
+  </channel>
+</rss>
