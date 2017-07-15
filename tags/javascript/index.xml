@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Coding Through Life</title>
+    <link>https://tomcorkhill.github.io/tags/javascript/</link>
+    <description>Recent content in Javascript on Coding Through Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Tom Corkhill; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tomcorkhill.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a Browser Bookmarklet</title>
+      <link>https://tomcorkhill.github.io/post/creating-a-browser-bookmarklet/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomcorkhill.github.io/post/creating-a-browser-bookmarklet/</guid>
+      <description>Bookmarklets are tiny JavaScript applications, that can be simply added to YOUR browser&amp;rsquo;s bookmark bar. Once installed, simply click the bookmark and sit back in awe at the magic that occurred.</description>
+    </item>
+    
+  </channel>
+</rss>
