@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Coding Through Life</title>
-    <link>https://tomcorkhill.github.io/post/</link>
-    <description>Recent content in Posts on Coding Through Life</description>
+    <title>Analytics on Coding Through Life</title>
+    <link>https://tomcorkhill.github.io/topics/analytics/</link>
+    <description>Recent content in Analytics on Coding Through Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Tom Corkhill; all rights reserved.</copyright>
     <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tomcorkhill.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tomcorkhill.github.io/topics/analytics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <guid>https://tomcorkhill.github.io/post/returning-sequential-numbers-with-sql/</guid>
       <description>In ad-hoc data analytics, I often find it useful to return a sequence number along with query results. Once of the easiest ways, if your database supports window functions, is to use the row_number() ranking function
 SELECT field_1, ..., field_n, row_number() OVER ( ORDER By order_by_field ) As seq FROM your_table ORDER BY order_by_field  Don&amp;rsquo;t forget to include the final ORDER BY clause if you want your results returned in the sequence.</description>
-    </item>
-    
-    <item>
-      <title>Try Static Site Generation with Hugo</title>
-      <link>https://tomcorkhill.github.io/post/try-static-site-generation/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://tomcorkhill.github.io/post/try-static-site-generation/</guid>
-      <description>If you&amp;rsquo;re into coding or general web development you will have probably thought about creating your own site from scratch at one point or another. If you&amp;rsquo;ve spent hours trying to decide which CMS system to use, hosting provider to trust, and plugins to use, take a step back for a minute. What if you could have a site with no database requirements; high performance on even free hosting; and better still, that was easy to maintain?</description>
     </item>
     
   </channel>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Tom Corkhill; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tomcorkhill.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analytics</title>
+      <link>https://tomcorkhill.github.io/tags/analytics/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomcorkhill.github.io/tags/analytics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Html</title>
@@ -27,6 +36,24 @@
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://tomcorkhill.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequence Numbers</title>
+      <link>https://tomcorkhill.github.io/tags/sequence-numbers/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomcorkhill.github.io/tags/sequence-numbers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sql</title>
+      <link>https://tomcorkhill.github.io/tags/sql/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomcorkhill.github.io/tags/sql/</guid>
       <description></description>
     </item>
     
