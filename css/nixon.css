@@ -77,6 +77,11 @@ table {
     border-spacing: 0
 }
 
+td, th{
+    border: 1px solid gray;
+    padding: 2px;
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
